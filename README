@@ -1,0 +1,18 @@
+#TicTacToe Game
+##Welcome to the TicTacToe Game , a simple Javascript web application allowing users to interact
+with Game Engine.
+
+###Getting up and running:
+
+How to play
+Players selection
+When the game is loaded, you need to select your players. You need to select the type of player you want by clicking in the dropdown, either computer or human. You also can select the player that goes first by clicking in X or O players.
+
+Human versus Human.
+If two human players have been selected, you just need to click in a position in the board to have the given player to play it. The current player will be highlighted in the panel below.
+
+Game over:
+Once the game has a winner or there is a draw, you will see a dialog informing about the result. From here you can:
+
+Repeat the game with the same players selection.
+Start a new game.
